@@ -8,7 +8,6 @@ int main()
 {
     printf("\aAshraful Islam Rahul\n");//using escape sequence
     printf("\nDIU\n");
-    printf("\n01638246111");
     getch();
 }
 
